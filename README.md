@@ -30,3 +30,11 @@ Vibe Bot (also known as BuddyBot) is an AI-powered conversational assistant inte
 
 ## 📁 Project Structure
 
+Vibe-Bot-main/
+│
+├── static/ # CSS, JS, and model files
+├── templates/ # HTML files (register.html, login.html, etc.)
+├── app.py # Flask backend script
+├── model/ # Teachable Machine exported model
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
